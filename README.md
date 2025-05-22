@@ -37,7 +37,7 @@
 ## 📫 Let’s Connect!
 
 - 💼 [My LinkedIn](www.linkedin.com/in/yasmine-zeineldin-3a6104285)
-- 📧 Email: yasminemohd56@gmail.com
+- 📧 yasminemohd56@gmail.com
 - 🌐 [My Portfolio](https://yasmine-website.netlify.app/) _(in progress — kind of like life)_
 
 ---
