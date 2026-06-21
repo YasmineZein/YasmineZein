@@ -1,57 +1,109 @@
-# 👋 Hey there, I’m Yasmine!
+# 👋 Hey there, I'm Yasmine!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=F75C7E&width=435&lines=CS+Student+%7C+Frontend+Freelancer;Lover+of+Code+%26+Caffeine;Competitive+Programming+Explorer;Quirky+but+Focused+%F0%9F%91%BD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=600\&duration=3000\&pause=1000\&color=F75C7E\&center=true\&vCenter=true\&width=700\&lines=Future+Software+Engineer;AI%2FML+%7C+Full-Stack+Developer;Teaching+Machines+and+Myself+How+to+Learn;Debugging+Since+The+Bug+Was+Created;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
 ## 🧠 About Me
 
-🎓 Computer Science and Information Technology student @ **E-JUST**  
-💻 I write code in **C++**, **Python**, and **JavaScript**  
-🎯 Frontend Freelancer with a love for clean UX/UI and responsive design  
-⚔️ Competitive programming explorer (yes, I'm that one in the leaderboard's lower half — for now 👀)  
-📢 Team player, organizer, and an enthusiastic volunteer  
-🌈 I like my code like I like my designs: clean, functional, and just a little extra
+🎓 Computer Science & Information Technology student at **E-JUST**
 
-## 🛠️ My Toolbox
+🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and building software that makes an impact
 
-- 💡 Languages: `C++`, `Python`, `JavaScript`, `HTML5`, `CSS3`
-- 🎨 Frameworks & Libraries: `Angular`, `Bootstrap`
-- 🔧 Tools & Platforms: `Git`, `Figma`, `Chrome DevTools`, `VSCode`
-- 🧠 Currently Learning:
-  - `TypeScript`
-  - `Node.js`, `Express.js`
-  - `MongoDB` and database design
-  - `Backend integration` with frontend apps
+💻 Started with frontend development, expanded into full-stack engineering, and eventually found my way into AI
 
-## 🌱 What I'm Working On
+🔬 Interested in:
 
-- Building modern frontend projects with Angular
-- Diving into full-stack development (hello backend!)
-- Sharpening my coding logic with competitive programming
-- Being the teammate you *wish* you had in group projects 😄
+* Machine Learning & Deep Learning
+* NLP & Transformer Architectures
+* Software Engineering
+* Parallel Computing
+* Backend Systems & APIs
+
+🚀 Some projects I've worked on:
+
+* Arabic Speech-to-Text System
+* GPT-style Code Generator
+* Parallel KNN using MPI + OpenMP
+* Full-stack web applications
+
+🤝 Volunteer, organizer, and teammate who enjoys building great things with great people
+
+🎯 Goal: Become a software engineer capable of taking intelligent systems from idea to production
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+
+### AI & Machine Learning
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+
+`Machine Learning` • `Deep Learning` • `CNNs` • `Transformers`
+
+### Full-Stack Development
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
+
+### Tools & Technologies
+
+`Git` • `VS Code` • `Figma` • `MPI` • `OpenMP`
+
+---
+
+## 🌱 Currently Exploring
+
+* Advanced Machine Learning & AI
+* Transformer-based architectures
+* Software Engineering best practices
+* High-Performance & Parallel Computing
+* Scalable backend systems
+
+---
 
 ## 🔥 Fun Facts
 
-- ⚡ I'm not just into code – I enjoy leading, organizing, and building things with awesome people.
-- 🐞 Debugging is my second language — fluent in print statements and trial & error.
-
-## 📫 Let’s Connect!
-
-- 💼 [My LinkedIn](www.linkedin.com/in/yasmine-zeineldin-3a6104285)
-- 📧 yasminemohd56@gmail.com
-- 🌐 [My Portfolio](https://yasmine-website.netlify.app/) _(in progress — kind of like life)_
+* 🧩 Daily Wordle is a mandatory part of my workflow
+* ⚡ I can spend 3 hours debugging and 3 minutes fixing the issue
+* 🎵 My playlists range from Abdelhalim Hafez to "I need this assignment done tonight"
+* 🐛 Sometimes the bug disappears when I threaten it
+* 🏆 Competitive programming keeps me humble
 
 ---
 
-> *“First, solve the problem. Then, write the code.” – John Johnson*
+## 📊 GitHub Stats
+
+![Yasmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasmineZein\&show_icons=true)
 
 ---
 
-### 🧸 Bonus Zone (Click to expand)
+## 📫 Connect With Me
+
+💼 LinkedIn: [www.linkedin.com/in/yasmine-zeineldin-3a6104285](http://www.linkedin.com/in/yasmine-zeineldin-3a6104285)
+
+📧 [yasminemohd56@gmail.com](mailto:yasminemohd56@gmail.com)
+
+🌐 Portfolio: https://yasmine-website.netlify.app/
+
+---
+
+> *"First, solve the problem. Then, write the code."*
+
 <details>
-<summary>🌟 Silly stuff about me</summary>
+<summary>🌟 Random Developer Lore</summary>
 
-- I name my variables like they’re my kids 🍼
-- I may or may not debug with `console.log()` tattoos on my soul
-- I convert caffeine into code (fast, messy, beautiful)
+* My commit messages range from "fix bug" to a detailed investigation report
+* I've debugged hardware and AI models in the same week
+* I still celebrate when code works on the first run
+* Every project starts with confidence and ends with Stack Overflow tabs
 
 </details>
